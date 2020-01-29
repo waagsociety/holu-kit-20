@@ -1,2 +1,2 @@
 # holu-kit-20
-Hollandse Luchten sensor kit
+Hollandse Luchten sensor kit, version 20
