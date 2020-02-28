@@ -68,7 +68,7 @@ Components:
 
 | pcbs  | component locations | populated pcb |
 | ------------- | ------------- | ----------|
-| image pcb | <img src="images/HL_Interface_top.png" width="300"> | image populated pcb |
+| image pcb | <img src="images/HL_interface_top.png" width="300"> | image populated pcb |
 
 Components:
 - SW_RST
@@ -82,7 +82,7 @@ Components:
 
 | pcbs  | component locations | populated pcb |
 | ------------- | ------------- | ----------|
-| image pcb | <img src="images/HL_Interface_bottom.png" width="300"> | image populated pcb |
+| image pcb | <img src="images/HL_interface_bottom.png" width="300"> | image populated pcb |
 
 Components:
 - JP_12
