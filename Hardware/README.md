@@ -19,8 +19,8 @@ The boards were produced by https://jlcpcb.com/.
 
 The images below show the boards and the components that populate them. The components specifications can be found in the BOM
 
-#### Sensors pcb top view
-##### Basic
+## Sensors pcb top view
+### Basic
 
 | pcbs  | component locations | populated pcb |
 | ------------- | ------------- | ----------|
@@ -32,7 +32,7 @@ Components:
 - J_PM25
 - J_TH_IN
 
-##### Extended
+### Extended
 
 | pcbs  | component locations | populated pcb |
 | ------------- | ------------- | ----------|
@@ -46,14 +46,14 @@ Components:
 - J_GAS_NO2
 - J_GAS_O3
 
-#### Sensors pcb bottom view
-##### Basic
+## Sensors pcb bottom view
+### Basic
 
 | pcbs  | component locations | populated pcb |
 | ------------- | ------------- | ----------|
 | <img src="images/HL_sensors_bottom_empty_photo.jpg" width="300"> | <img src="images/HL_sensors_bottom.png" width="300"> | <img src="images/HL_sensors_bottom_populated_photo.jpg" width="300"> |
 
-##### Extended
+### Extended
 
 | pcbs  | component locations | populated pcb |
 | ------------- | ------------- | ----------|
@@ -63,12 +63,12 @@ Components:
 - Q1, Q2
 - R1, R2, R3, R4
 
-#### Interface pcb top view
-##### Basic and Extended
+### Interface pcb top view
+## Basic and Extended
 
 | pcbs  | component locations | populated pcb |
 | ------------- | ------------- | ----------|
-| image pcb | <img src="images/HL_interface_top.png" width="300"> | image populated pcb |
+| <img src="images/HL_interface_top_empty_photo.jpg" width="200"> | <img src="images/HL_interface_top.png" width="200"> | <img src="images/HL_interface_top_populated_photo.jpg" width="200"> |
 
 Components:
 - SW_RST
@@ -77,19 +77,19 @@ Components:
 - C1
 - LED1
 
-#### Interface pcb bottom view
-##### Basic and Extended
+## Interface pcb bottom view
+### Basic and Extended
 
 | pcbs  | component locations | populated pcb |
 | ------------- | ------------- | ----------|
-| image pcb | <img src="images/HL_interface_bottom.png" width="300"> | image populated pcb |
+| <img src="images/HL_interface_bottom_empty_photo.jpg" width="200"> | <img src="images/HL_interface_bottom.png" width="200"> | <img src="images/HL_interface_bottom_populated_photo.jpg" width="200"> |
 
 Components:
 - JP_12
 - JP_16
 
-#### BME pcb top view
-##### Basic and Extended
+## BME pcb top view
+### Basic and Extended
 
 | pcbs  | component locations | populated pcb |
 | ------------- | ------------- | ----------|
@@ -98,8 +98,8 @@ Components:
 Components:
 - J_TH
 
-#### BME pcb bottom view
-##### Basic and Extended
+## BME pcb bottom view
+### Basic and Extended
 
 | pcbs  | component locations | populated pcb |
 | ------------- | ------------- | ----------|
@@ -108,52 +108,30 @@ Components:
 Components:
 - J_G
 
-#### GAS o3 pcb top view
-##### Extended
+## GAS pcbs top view
+### Extended
 
 | pcbs  | component locations | populated pcb |
 | ------------- | ------------- | ----------|
-| image pcb | <img src="images/HL_gas_o3_pcb_top.png" width="300"> | image populated pcb |
+| <img src="images/HL_gas_pcb_top_empty_photo.jpg" width="300"> | <img src="images/HL_gas_o3_pcb_top.png" width="120">  <img src="images/HL_gas_no2_pcb_top.png" width="120"> | <img src="images/HL_gas_pcb_top_populated_photo.jpg" width="300"> |
 
 Components:
 - J_GAS
 - J_ADS115
 
-#### GAS o3 pcb bottom view
-##### Extended
+## GAS pcbs bottom view
+### Extended
 
 | pcbs  | component locations | populated pcb |
 | ------------- | ------------- | ----------|
-| image pcb | <img src="images/HL_gas_o3_pcb_bottom.png" width="300"> | image populated pcb |
+| <img src="images/HL_gas_pcb_bottom_empty_photo.jpg" width="300"> | <img src="images/HL_gas_o3_pcb_bottom.png" width="120">  <img src="images/HL_gas_no2_pcb_bottom.png" width="120"> | <img src="images/HL_gas_pcb_bottom_populated_photo.jpg" width="300"> |
 
 Components:
 - J_O3
 - C1, C2
 
-### GAS no2 pcb top view
-##### Extended
-
-| pcbs  | component locations | populated pcb |
-| ------------- | ------------- | ----------|
-| image pcb | <img src="images/HL_gas_no2_pcb_top.png" width="300"> | image populated pcb |
-
-Components:
-- J_GAS
-- J_ADS115
-
-#### GAS no2 pcb bottom view
-##### Extended
-
-| pcbs  | component locations | populated pcb |
-| ------------- | ------------- | ----------|
-| image pcb | <img src="images/HL_gas_no2_pcb_bottom.png" width="300"> | image populated pcb |
-
-Components:
-- J_NO2
-- C1, C2
-
-#### EXTRA
-##### Feather M0 with RFM95 LORA Radio
+## EXTRA
+### Feather M0 with RFM95 LORA Radio
 <p align="center"> <img src="images/Feather_M0.jpg" width="200"></p>
 
 It is important to buy the Feather M0 Lora with headers because the connectors that are usually provided attached to the board are too short for this application.
@@ -161,7 +139,7 @@ It is necessary to use the long staking headers, see BOM. It is also necessary t
 You can find the instruction at this link: https://learn.adafruit.com/adafruit-feather-m0-radio-with-rfm69-packet-radio/antenna-options.
 
 
-##### Adalogger Feather
+### Adalogger Feather
 <p align="center"> <img src="images/adalogger.jpg" width="150"></p>
 
 On this module it is necessary to solder the female connector and insert the battery and the SD-card, https://learn.adafruit.com/adafruit-adalogger-featherwing.
