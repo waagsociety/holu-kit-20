@@ -24,7 +24,7 @@ The images below show the boards and the components that populate them. The comp
 
 | pcbs  | component locations | populated pcb |
 | ------------- | ------------- | ----------|
-| <img src="images/HL_sensors_top_photo.jpg"> width="300"| <img src="images/HL_sensors_top.png" width="300"> | image populated pcb |
+| <img src="images/HL_sensors_top_empty_photo.jpg">| <img src="images/HL_sensors_top.png" > | image populated pcb |
 
 Components:
 - JP1
