@@ -93,7 +93,7 @@ Components:
 
 | pcbs  | component locations | populated pcb |
 | ------------- | ------------- | ----------|
-| image pcb | <img src="images/HL_bme_top.png" width="300"> | image populated pcb |
+| <img src="images/HL_bme_top_empty_photo.jpg" width="200"> | <img src="images/HL_bme_top.png" width="200"> | <img src="images/HL_bme_top_popluated_photo.jpg" width="200"> |
 
 Components:
 - J_TH
@@ -103,7 +103,7 @@ Components:
 
 | pcbs  | component locations | populated pcb |
 | ------------- | ------------- | ----------|
-| image pcb | <img src="images/HL_bme_bottom.png" width="300"> | image populated pcb |
+| <img src="images/HL_bme_bottom_empty_photo.jpg" width="200"> | <img src="images/HL_bme_bottom.png" width="200"> | <img src="images/HL_bme_top_popluated_photo.jpg" width="200"> |
 
 Components:
 - J_G
