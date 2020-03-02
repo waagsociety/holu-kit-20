@@ -36,7 +36,7 @@ Components:
 
 | pcbs  | component locations | populated pcb |
 | ------------- | ------------- | ----------|
-| image pcb | <img src="images/HL_sensors_top.png" width="300"> | image populated pcb |
+| <img src="images/HL_sensors_top_empty_photo.jpg" width="300"> | <img src="images/HL_sensors_top.png" width="300"> | <img src="images/HL_sensors_top_ext_populated_photo.jpg" width="300"> |
 
 Components:
 - JP1
@@ -51,13 +51,13 @@ Components:
 
 | pcbs  | component locations | populated pcb |
 | ------------- | ------------- | ----------|
-| image pcb | <img src="images/HL_sensors_bottom.png" width="300"> | image populated pcb |
+| <img src="images/HL_sensors_bottom_empty_photo.jpg" width="300"> | <img src="images/HL_sensors_bottom.png" width="300"> | <img src="images/HL_sensors_bottom_populated_photo.jpg" width="300"> |
 
 ##### Extended
 
 | pcbs  | component locations | populated pcb |
 | ------------- | ------------- | ----------|
-| image pcb | <img src="images/HL_sensors_bottom.png" width="300"> | image populated pcb |
+| <img src="images/HL_sensors_top_empty_photo.jpg" width="300"> | <img src="images/HL_sensors_bottom.png" width="300"> | <img src="images/HL_sensors_bottom_ext_populated_photo.jpg" width="300"> |
 
 Components:
 - Q1, Q2
