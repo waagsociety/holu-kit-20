@@ -113,7 +113,7 @@ Components:
 
 | pcbs  | component locations | populated pcb |
 | ------------- | ------------- | ----------|
-| <img src="images/HL_gas_pcb_top_empty_photo.jpg" width="300"> | <img src="images/HL_gas_o3_pcb_top.png" width="120">  <img src="images/HL_gas_no2_pcb_top.png" width="120"> | <img src="images/HL_gas_pcb_top_populated_photo.jpg" width="300"> |
+| <img src="images/HL_gas_pcb_top_empty_photo.jpg" width="200"> | <img src="images/HL_gas_o3_pcb_top.png" width="120">  <img src="images/HL_gas_no2_pcb_top.png" width="120"> | <img src="images/HL_gas_pcb_top_populated_photo.jpg" width="200"> |
 
 Components:
 - J_GAS
@@ -124,7 +124,7 @@ Components:
 
 | pcbs  | component locations | populated pcb |
 | ------------- | ------------- | ----------|
-| <img src="images/HL_gas_pcb_bottom_empty_photo.jpg" width="300"> | <img src="images/HL_gas_o3_pcb_bottom.png" width="120">  <img src="images/HL_gas_no2_pcb_bottom.png" width="120"> | <img src="images/HL_gas_pcb_bottom_populated_photo.jpg" width="300"> |
+| <img src="images/HL_gas_pcb_bottom_empty_photo.jpg" width="200"> | <img src="images/HL_gas_o3_pcb_bottom.png" width="120">  <img src="images/HL_gas_no2_pcb_bottom.png" width="120"> | <img src="images/HL_gas_pcb_bottom_populated_photo.jpg" width="200"> |
 
 Components:
 - J_O3
