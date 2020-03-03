@@ -1,5 +1,7 @@
 # Hardware - holu-kit-20
 
+<p align="center"> <img src="images/internal_hardware.jpg" width="500"></p>
+
 Hollandse Luchten sensor kit, version 2.0.
 
 In this folder you find the digital files for the pcbs production used to connect the different modules of the HoLu kit v2.
