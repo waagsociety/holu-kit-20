@@ -1,6 +1,7 @@
 # holu-kit-20
 Hollandse Luchten sensor kit, version 2.0.
 
+<p align="center"> <img src="images/holukits.jpg" width="500"></p>
 
 This repo has the scope to host the source files of the HoLu kit v2.
 In the repo there are:
