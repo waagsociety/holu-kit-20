@@ -17,4 +17,5 @@ Some extra information:
 In this repo you also find the presentations related to the HoLu kit, the slides have been used during internal meetings and meet-up with the participants of the projects.
 
 Missing:
-- ~~3D model of the moulds~~: the 3D models of the moulds were designed by the company that produced the cases, the models are based on the original 3D models you find in this repo.
+- ~~3D model of the moulds~~: the 3D models of the moulds were designed by the company that produced the casings, the moulds are based on the original 3D models you find in this repo.
+- 2D model internal acrylic plate.
