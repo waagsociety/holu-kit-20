@@ -1,4 +1,4 @@
-# Hardware - holu-kit-20
+µ# Hardware - holu-kit-20
 
 <p align="center"> <img src="images/internal_hardware.jpg" width="500"></p>
 
@@ -151,5 +151,17 @@ You can find the instruction at this link: https://learn.adafruit.com/adafruit-f
 
 On this module it is necessary to solder the female connector and insert the battery and the SD-card, https://learn.adafruit.com/adafruit-adalogger-featherwing.
 
+### Temperature and Humidity Sensor
+The sesnor selected to measure temperature and humidity is the sensor BME280 from Bosh: https://www.bosch-sensortec.com/products/environmental-sensors/humidity-sensors-bme280/.
 
-**NOTE**: During the on the field deployment of the HoLu kits, we observed that temperature sensor BME280 module is too fragile for such application and after a while many it tends to break. The Extended HoLu kit requires the temp/hum sensor for the calibration of the gas sensors so we adopted a different breakout board with the same sensor, BME280, see "link to issue web page".
+Due to tools limitation, the sensor has been deployed on a low cost breakout board:
+<p align="center"> <img src="images/BMP280.jpeg" width="150"><img src="images/bme280.png" width="150"> </p>
+
+**NOTE**: During the on the field deployment of the HoLu kits, we observed that temperature sensor BME280 module is too fragile for such application and after a while many it tends to break. The Extended HoLu kit requires the temp/hum sensor for the calibration of the gas sensors so we adopted a different breakout board with the same sensor, the module provided by Adafruit, https://www.adafruit.com/product/2652.
+<p align="center"> <img src="images/adafruit_bme280.jpg" width="150"></p>
+
+To better protect the module inside the HoLu kit enclosure, it has been located in a more central place inside the casing.
+<p align="center"> <img src="images/adafruit_bme280_1.jpg" width="150">           <img src="images/adafruit_bme280_2.jpg" width="150"></p>
+<p align="center"> <img src="images/adafruit_bme280_3.jpg" width="150">           <img src="images/adafruit_bme280_4.jpg" width="150"></p>
+
+If you are interested on the connection between the extra module, please open an issue in the issue section.
